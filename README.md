@@ -1,5 +1,10 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> 
+This company is the largest online loan marketplace, offering personal, business, and medical financing. Borrowers access lower-interest loans via a fast online platform.
+
+Like most lenders, credit loss from 'risky' applicants, particularly those labeled as 'charged-off' (defaulters), is a major challenge. Identifying such applicants can help reduce losses.
+
+This case study aims to use EDA to identify the key factors driving loan defaults, enabling the company to enhance its risk assessment and portfolio management. Researching risk analytics and variable significance is recommended to build domain understanding.
 
 
 ## Table of Contents
